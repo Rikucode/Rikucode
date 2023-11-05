@@ -1,4 +1,4 @@
-###🙋‍♂️ Greetings!
+### 🙋‍♂️ Greetings!
 My name is Artyom, I am from the Sakhalin, far east of Russia. I am currently studying software engineering at "FEFU".
 I am also intrested in GameDev and Front-End, currently working on my project in Godot!
 <!--
