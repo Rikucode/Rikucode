@@ -1,5 +1,5 @@
 ### 🙋‍♂️ Greetings!
-My name is Artyom, I am from the Sakhalin, far east of Russia. I am currently studying software engineering at "FEFU".
+My name is Alexey, I am from the Sakhalin, far east of Russia. I am currently studying software engineering at "NSTU".
 I am also interested in GameDev and Front-End, currently working on my project in Godot!
 <!--
 **Rikucode/Rikucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
